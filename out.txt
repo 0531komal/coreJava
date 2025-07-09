@@ -1,0 +1,4 @@
+number: 6
+letter: 10
+spaces: 4
+special characters: 1
